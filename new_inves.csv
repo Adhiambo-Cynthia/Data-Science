@@ -1,0 +1,41 @@
+,id,name,buyingprice,sellingprice,type
+0,1,Compound - Raspberry,197.32,276.25,Vegetables
+1,2,Pastry - Apple Large,198.4,277.76,Fruit
+2,3,Bacardi Raspberry,174.64,244.5,Fruit
+3,4,Wine - Gewurztraminer Pierre,199.96,279.94,Vegetables
+4,5,Dawn Professionl Pot And Pan,179.17,250.84,Vegetables
+5,6,Cranberry Foccacia,186.95,261.73,Fruit
+6,7,Worcestershire Sauce,169.61,237.45,Vegetables
+7,8,Curry Powder Madras,173.22,242.51,Vegetables
+8,9,Cookies Cereal Nut,173.12,242.37,Fruit
+9,10,Durian Fruit,198.46,277.84,Vegetables
+10,11,Salmon Atl.whole 8 - 10 Lb,159.81,223.73,Vegetables
+11,12,Wine - Pinot Noir Stoneleigh,164.1,229.74,Fruit
+12,13,Mace,165.39,231.55,Vegetables
+13,14,Miso - Soy Bean Paste,196.48,275.07,Fruit
+14,15,Coffee Beans - Chocolate,170.39,238.55,Fruit
+15,16,Ice Cream Bar - Drumstick,183.17,256.44,Fruit
+16,17,Garlic,181.94,254.72,Fruit
+17,18,"Artichokes - Knobless, White",195.87,274.22,Vegetables
+18,19,Bagel - Sesame Seed Presliced,158.09,221.33,Vegetables
+19,20,Bread Base - Goodhearth,180.36,252.5,Fruit
+20,21,Wine - Chablis J Moreau Et Fils,178.59,250.03,Fruit
+21,22,Sauce - Soy Low Sodium - 3.87l,159.99,223.99,Vegetables
+22,23,Rum - Mount Gay Eclipes,188.05,263.27,Fruit
+23,24,Bread - Rosemary Focaccia,183.0,256.2,Vegetables
+24,25,External Supplier,181.89,254.65,Fruit
+25,26,Table Cloth 62x120 Colour,175.87,246.22,Vegetables
+26,27,Cheese - Cottage Cheese,185.66,259.92,Fruit
+27,28,Water - Evian 355 Ml,154.55,216.37,Vegetables
+28,29,Pasta - Cheese / Spinach Bauletti,197.25,276.15,Fruit
+29,30,Vinegar - Rice,174.28,243.99,Vegetables
+30,31,"Tomatoes - Plum, Canned",159.16,222.82,Fruit
+31,32,Chips - Assorted,158.11,221.35,Fruit
+32,33,Wine - Coteaux Du Tricastin Ac,193.16,270.42,Vegetables
+33,34,Bread - Corn Muffaletta,182.67,255.74,Fruit
+34,35,"Oil - Olive, Extra Virgin",188.05,263.27,Vegetables
+35,36,"Fish - Halibut, Cold Smoked",177.27,248.18,Vegetables
+36,37,"Juice - Apple, 500 Ml",150.32,210.45,Vegetables
+37,38,Energy Drink,199.09,278.73,Fruit
+38,39,Petite Baguette,156.32,218.85,Fruit
+39,40,Samosa - Veg,161.05,225.47,Fruit
